@@ -1,2 +1,2 @@
-Multi-armed-Bandit-Based-Evolutionary-Model-Adaptation-for-Permutation-Problems
+Multi-armed Bandit Based Evolutionary Model Adaptation for Permutation Problems
 ===============================================================================
